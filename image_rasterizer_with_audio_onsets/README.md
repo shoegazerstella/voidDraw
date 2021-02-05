@@ -1,4 +1,4 @@
-## Image Rasterizer with Beat Onset
+## Image Rasterizer with Beat Onsets
 
 Rasterize an image at beat onsets.
 
