@@ -1,5 +1,5 @@
 # voidDraw
-A collection of my experiments using [Processing](https://processing.org/), mostly done to create visuals for my music.
+A collection of experiments using [Processing](https://processing.org/), mostly done to create visuals for my music.
 
 
 ### Image Rasterizer with Audio Onsets
